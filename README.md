@@ -14,7 +14,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/wg-install-sh.git
+git clone [https://github.com/EasyVanilla2023/wg-install-sh.git]
 cd wg-install-sh
 ```
 
